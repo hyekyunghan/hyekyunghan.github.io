@@ -22,7 +22,7 @@ theorydb:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        cantouchmin
+    #facebook:        cantouchmin
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
@@ -51,7 +51,7 @@ theorydb:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-     linkedin:        hyekyung-han
+    #linkedin:        hyekyung-han
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
