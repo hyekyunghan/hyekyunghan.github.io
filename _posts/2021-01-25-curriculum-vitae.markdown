@@ -3,7 +3,7 @@ layout: list
 icon: fa-book
 title: CV  
 subtitle: "Targeted"  
-categories: curriculum-vitaereview  
+categories: curriculum-vitae 
 tags: ss
 comments: true  
 ---  
