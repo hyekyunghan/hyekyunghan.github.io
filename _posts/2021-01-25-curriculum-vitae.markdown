@@ -1,5 +1,5 @@
 ---  
-layout: "cv"
+layout: list
 icon: fa-book
 title: CV  
 subtitle: "Targeted"  
