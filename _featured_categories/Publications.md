@@ -1,7 +1,7 @@
 ---
 layout: list
-title: EnvOps
-slug: envops
+title: Publications
+slug: publications
 menu: true
 submenu: false
 order: 2
