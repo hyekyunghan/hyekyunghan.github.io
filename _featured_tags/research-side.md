@@ -2,7 +2,7 @@
 layout: tag-blog
 title: side channel
 slug: ml
-category: research
+category: dev
 menu: false
 order: 3
 ---
