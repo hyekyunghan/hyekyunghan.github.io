@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: ENF
-slug: r
+slug: ENF
 category: dev
 menu: false
 order: 1
