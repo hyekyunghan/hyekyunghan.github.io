@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: side channel
-slug: ml
+slug: side channel
 category: dev
 menu: false
 order: 3
