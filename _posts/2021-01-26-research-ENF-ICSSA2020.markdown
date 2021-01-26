@@ -3,7 +3,7 @@ layout: post
 title: Conference at ICSSA 2020  
 subtitle: "Comparison of various interpolation techniques to infer localization of audio files using ENF signals"  
 categories: research  
-tags: review book 2021 정치 경제 금융 국제 과학 기술 문화 각국 세계 지표 일정
+tags: ENF
 comments: true  
 header-img: img/review/review-book-economist-2021-1.png
 ---  
