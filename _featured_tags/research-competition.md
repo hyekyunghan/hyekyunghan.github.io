@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: Competition
+title: Computer vision
 slug: competition
 category: research
 menu: false
