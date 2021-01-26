@@ -13,8 +13,13 @@ comments: true
   ![interpolation_map]('https://hyekyunghan.github.io/assets/img/demo_intp.gif')
   
   
-- 목차
-	- [Colab이란 무엇인가?](#colab이란-무엇인가)
-	- [Colab 환경설정](#colab-환경설정)
-	- [Colab을 활용한 간단한 예제 작성](#colab을-활용한-간단한-예제-작성)
-	- [Colab & Markdown](#colab--markdown)
+<div class="row">
+  <div class="4u 6u(mobile)">
+    <div class="item">
+      <a href="#optimal-binary-representation-via-non-convex-optimization-on-tomographic-displays-2019" class="image fit scrolly"><img src="{{ 'https://hyekyunghan.github.io/assets/img/demo_intp.gif' | relative_url }}" alt="" /></a>
+      <header>
+        <h2>Optimal Binary Representation via Non-convex Optimization on Tomographic Displays</h2>
+      </header>
+    </div>
+  </div>
+</div>
