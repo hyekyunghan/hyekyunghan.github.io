@@ -13,7 +13,7 @@ comments: true
   
   
   
-{% include videoPlayer.html id=page.vimeoId %}
+
   
   
 - 목차
