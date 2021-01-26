@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Curriculum Vitae
-slug: curriculum vitae
+slug: curriculum-vitae
 menu: true
 submenu: false
 order: 4
