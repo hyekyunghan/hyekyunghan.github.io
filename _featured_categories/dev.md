@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Research
-slug: research
+slug: dev
 menu: true
 submenu: true
 order: 3
