@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: PaperToMath
-slug: papertomath
+title: side channel
+slug: sc
 category: dev
 menu: false
 order: 3

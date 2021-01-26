@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: DL
-slug: dl
+title: covert channel
+slug: cc
 category: dev
 menu: false
 order: 2

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Rdbms
-slug: rdbms
+title: Computer vision
+slug: competition
 category: dev
 menu: false
-order: 5
+order: 4
 ---

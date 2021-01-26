@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
+title: ENF
+slug: ENF
 category: dev
 menu: false
 order: 1
