@@ -10,7 +10,7 @@ comments: true
 ## 개요
 > 파이썬을 활용한 머신러닝의 첫 관문! 구글 `Colab(코랩)`의 환경구성 및 기본 사용법을 다룬 포스트입니다.
   
-  ![interpolation_map]('assets/img/demo_intp.gif')
+  ![interpolation_map]('https://hyekyunghan.github.io/assets/img/demo_intp.gif')
   
   
 - 목차
