@@ -1,9 +1,9 @@
 ---  
 layout: post  
-title: Conference at ICSSA 2020  
+title: "Conference at ICSSA 2020"  
 subtitle: "Comparison of various interpolation techniques to infer localization of audio files using ENF signals"  
-categories: research  
-tags: ENF
+categories: dev  
+tags: ENF signal processing
 comments: true  
 header-img: img/review/review-book-economist-2021-1.png
 ---  
