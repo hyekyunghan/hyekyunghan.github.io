@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[Colab] Google Colab (코랩) 환경설정 및 사용법"
+title:  "Data transmission using inaudible frequencies"
 subtitle:   "Google Colab Preferences and Usage"
 categories: dev
-tags: cc google colab python jupyter notebook 
+tags: cc covert-channel dolphine attack
 comments: true
 ---
 
