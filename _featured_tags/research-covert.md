@@ -2,7 +2,7 @@
 layout: tag-blog
 title: covert channel
 slug: dl
-category: research
+category: dev
 menu: false
 order: 2
 ---
