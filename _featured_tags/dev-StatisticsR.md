@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Statistics & R
+title: ENF
 slug: r
-category: dev
+category: research
 menu: false
 order: 1
 ---
