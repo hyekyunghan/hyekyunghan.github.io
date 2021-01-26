@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: DL
+title: covert channel
 slug: dl
-category: dev
+category: research
 menu: false
 order: 2
 ---
