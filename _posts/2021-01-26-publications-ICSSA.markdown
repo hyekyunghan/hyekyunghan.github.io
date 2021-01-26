@@ -2,13 +2,16 @@
 layout: post
 title:  "My first publication!"
 subtitle:   "Google Colab Preferences and Usage"
-categories: publication
-tags: publication google colab python jupyter notebook 
+categories: publications
+tags: publications google colab python jupyter notebook 
 comments: true
 ---
 
 ## 개요
 > 파이썬을 활용한 머신러닝의 첫 관문! 구글 `Colab(코랩)`의 환경구성 및 기본 사용법을 다룬 포스트입니다.
+  
+  ![interpolation_map]('assets/img/demo_intp.gif')
+  
   
 - 목차
 	- [Colab이란 무엇인가?](#colab이란-무엇인가)
