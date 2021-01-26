@@ -4,7 +4,7 @@ icon: fa-book
 title: CV  
 subtitle: "Targeted"  
 categories: curriculum-vitae 
-tags: ss
+tags: curriculum-vitae 
 comments: true  
 ---  
 
