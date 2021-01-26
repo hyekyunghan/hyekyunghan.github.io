@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Computer vision
 slug: competition
-category: research
+category: dev
 menu: false
 order: 4
 ---
