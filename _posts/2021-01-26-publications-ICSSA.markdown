@@ -9,7 +9,7 @@ comments: true
 
 # thesis
 
-  ![interpolation_map]('https://hyekyunghan.github.io/assets/img/demo_intp.gif')
+[interpolation_map]('https://hyekyunghan.github.io/assets/img/demo_intp.gif')
   
 [사진]('https://hyekyunghan.github.io/assets/img/1.pdf')
 
