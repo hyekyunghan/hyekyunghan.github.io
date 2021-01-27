@@ -11,3 +11,6 @@ comments: true
 
   ![interpolation_map]('https://hyekyunghan.github.io/assets/img/demo_intp.gif')
   
+[사진]('https://hyekyunghan.github.io/assets/img/1.pdf')
+
+[사진]('https://hyekyunghan.github.io/assets/img/5.pdf')
