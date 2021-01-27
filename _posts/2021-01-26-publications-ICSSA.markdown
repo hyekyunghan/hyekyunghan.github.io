@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first publication!"
+title:  [1] Comparison of various interpolation techniques to infer localization of audio files using ENF signals
 subtitle:   "Google Colab Preferences and Usage"
 categories: publications
 tags: publications google colab python jupyter notebook 
