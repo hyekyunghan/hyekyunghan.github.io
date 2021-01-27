@@ -9,7 +9,7 @@ comments: true
 
 ## Electrical Network Frequency
 
-![그림](https://hyekyunghan.github.io/assets/img/our_team.jpg)
+![그림](https://hyekyunghan.github.io/assets/img/our_team.jpg){: width="50%" height="50%"}
 
 
 We worked on a set of problems provided by the side channel committee.
