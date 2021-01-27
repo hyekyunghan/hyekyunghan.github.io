@@ -15,4 +15,4 @@ comments: true
 
 It was the very first presentation I took on a conference.
 
-It was truly an honor to be accepted and be given a chance to present my work to one of the finest professors of fields of security.
+It was truly an honor to be accepted and be given a chance to present my work to one of the finest professors in the fields of security.
