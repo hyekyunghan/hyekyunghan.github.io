@@ -9,7 +9,7 @@ comments: true
 
 ## Received Best Paper Award!!
 
-![사진](https://hyekyunghan.github.io/assets/img/me_presenting.png){: width="60%" height="60%"}
+![사진](https://hyekyunghan.github.io/assets/img/me_presenting.png){: width="90%" height="90%"}
 
 
 It was the very first presentation I took on a conference.
