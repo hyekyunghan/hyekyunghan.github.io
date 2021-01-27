@@ -7,7 +7,11 @@ tags: review
 comments: true
 ---
 
-## It was the very first presentation on a conference 
 ## Received Best Paper Award!!
 
 ![사진](https://hyekyunghan.github.io/assets/img/me_presenting.png){: width="60%" height="60%"}
+
+
+It was the very first presentation I took on a conference.
+
+It was truly an honor to be accepted and be given a chance to present my work to one of the finest professors of fields of security.
