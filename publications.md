@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Publications
-excerpt: "Publications"
-comments: true
+menu: true
+order: 3
 
 ---
 
