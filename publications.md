@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: list
 title: Publications
 order: 3
 menu: true
