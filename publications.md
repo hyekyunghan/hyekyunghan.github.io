@@ -2,10 +2,10 @@
 layout: page
 title: Publications
 excerpt: "Publications"
-tags: [Jekyll, theme, responsive, blog, template]
+#tags: [Jekyll, theme, responsive, blog, template]
 comments: true
-image: 
-  feature: rooftop_view.jpg
+#image: 
+#  feature: rooftop_view.jpg
 ---
 
 {% include _toc.html %}
